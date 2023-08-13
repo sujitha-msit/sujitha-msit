@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sujitha-msit
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning machine learning and deep learning
+- 🌱 I’m working on python,Java,Microservices, machine learning and deep learning
 - 💞️ I’m looking to collaborate on working on open source code
 - 📫 reach me on 9603567868 or sujicmc@gmail.com
 
